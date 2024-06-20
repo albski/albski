@@ -2,7 +2,7 @@
 
 - 💻 Go Enthusiast
 - ☁️ Computer Science (Cloud Outsourcing) Student
+- 🧊 Cold Plunges and Sauna Admirer
 - 🧘 Meditation Practicioner
-- 🧊 Cold Plunges and Sauna Fan
-- 🧠 Neuroscience Buff
 - 🪷 Philosophy Enjoyer
+- 🧠 Neuroscience Buff
