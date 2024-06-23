@@ -2,7 +2,7 @@
 
 I'm a **Go Enthusiast** and a **Computer Science (Cloud Outsourcing) student**.
 
-I enjoy exploring fields of **calisthenics, meditation, philosophy, and neuroscience**.
+I enjoy exploring fields of **software development, calisthenics, meditation, philosophy, and neuroscience**.
 
 Feel free to connect with me! 😊
 
