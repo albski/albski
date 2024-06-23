@@ -1,8 +1,7 @@
 ### Hi 👋, I'm Albert
 
-- 💻 Go Enthusiast
-- ☁️ Computer Science (Cloud Outsourcing) Student
-- 🧊 Cold Plunges and Sauna Admirer
-- 🧘 Meditation Practicioner
-- 🪷 Philosophy Enjoyer
-- 🧠 Neuroscience Buff
+I'm a **Go Enthusiast** and a **Computer Science (Cloud Outsourcing) student**. My enthusiasm lies in software development, and I enjoy exploring fields of **calisthenics, meditation, philosophy, and neuroscience**.
+
+Feel free to connect with me! 😊
+
+[Reach out via LinkedIn](https://www.linkedin.com/in/albertskon/)
