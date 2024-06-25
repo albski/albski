@@ -1,4 +1,4 @@
-#### Hi 👋, I'm Albert 🤓
+### Hi 👋, I'm Albert 🤓
 
 I'm a **💻 Go admirer** and a **🧑‍🎓 Computer Science student**.
 
