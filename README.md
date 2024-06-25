@@ -1,9 +1,5 @@
-### Hi 👋, I'm Albert
+#### Hi 👋, I'm Albert
 
-I'm a **Go Enthusiast** and a **Computer Science (Cloud Outsourcing) student**.
+I'm a **Go Enthusiast** and a **Computer Science student**.
 
-I enjoy exploring fields of **software development, calisthenics, meditation, philosophy, and neuroscience**.
-
-Feel free to connect with me! 😊
-
-[Reach out via LinkedIn](https://www.linkedin.com/in/albertskon/)
+I enjoy exploring fields of **software development, calisthenics, meditation, philosophy, and neuroscience**. 
